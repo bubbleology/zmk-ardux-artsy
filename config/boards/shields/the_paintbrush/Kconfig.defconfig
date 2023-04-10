@@ -7,10 +7,10 @@ config I2C
 	default y
 
 config SSD1306
-	default y
+	default n
 
 config SSD1306_REVERSE_MODE
-	default y
+	default n
 
 config LVGL_HOR_RES_MAX
 	default 128
